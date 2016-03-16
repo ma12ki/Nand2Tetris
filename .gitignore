@@ -1,0 +1,6 @@
+# NetBeans project files
+nbactions.xml
+nb-configuration.xml
+
+# build directory
+target
